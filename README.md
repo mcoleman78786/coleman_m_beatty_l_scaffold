@@ -30,5 +30,6 @@ Researched fonts.
 
 Finished Links.html and css.
 
-
 Still working on design wireframes.
+
+Added psd with names and created them as PDF
