@@ -36,3 +36,4 @@ Added psd with names and created them as PDF
 
 Added google doc with scaffold sizes
 
+Added psd design and pdf, added reset.css to includes.
